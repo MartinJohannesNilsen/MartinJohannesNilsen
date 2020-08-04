@@ -6,11 +6,10 @@ I am a norwegian student studying computer engineering at NTNU, Trondheim. Curre
 
 <link rel="stylesheet" type="text/css" media="all" href="css/social-circles.css">
 <div>
-<a class="icon-github social-button borderless" href="https://github.com/Martinnilsen99"></a>
-<a class="icon-rss social-button borderless" href="https://www.martinnilsen.no"></a>
-<a class="icon-linkedin social-button borderless" href="https://www.linkedin.com/in/martinnilsen99/"></a>
-<a class="icon-youtube social-button borderless" href="https://www.youtube.com/channel/UCxyROQQeUpa44IEeC5oJuhQ"></a>
-<a class="icon-instagram social-button borderless" href="https://www.instagram.com/martinnilsen99/"></a>
-<a class="icon-facebook social-button borderless" href="https://www.facebook.com/Martinnilsen99/"></a>
-
+<a href="https://www.martinnilsen.no"><img src="https://image.flaticon.com/icons/svg/2150/2150395.svg" width="30px" ></a>
+<a href="https://github.com/Martinnilsen99"><img src="https://image.flaticon.com/icons/svg/2111/2111425.svg" width="30px" ></a>
+<a href="https://www.linkedin.com/in/martinnilsen99/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="30px" ></a>
+<a href="https://www.facebook.com/Martinnilsen99/"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" width="30px" ></a>
+<a href="https://www.instagram.com/martinnilsen99/"><img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="30px" ></a>
+<a href="https://www.youtube.com/channel/UCxyROQQeUpa44IEeC5oJuhQ"><img src="https://image.flaticon.com/icons/svg/1384/1384060.svg" width="30px" ></a>
 </div>
