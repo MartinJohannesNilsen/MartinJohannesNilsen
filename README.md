@@ -1,4 +1,4 @@
-[![Header](./assets/profileHeader.png "Header")](https://martinnilsen.no)
+[![Header](https://github.com/Martinnilsen99/Martinnilsen99/blob/master/assets/profileHeader.png "Header")](https://martinnilsen.no)
 
 ### &#128075; Who am I?
 
