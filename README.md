@@ -2,7 +2,7 @@
 
 ### &#128075; Who am I?
 
-I am a norwegian student studying computer engineering at NTNU, Trondheim. Currently on the third year of my bachelors degree, and in the mindset of starting on a masters degree next year. Furthermore, I work as an assistant for the students in the year underneath me. In addition to this, my passion is sports, technology (obviously), social networking (add me on LinkedIn) and programming. I just finished up 6 weeks of working as a summer intern at Experis Ciber, in which I contributed to creating a prototype of an web-application for creating musicscores in the customers own color notation.
+I am a norwegian student studying **computer engineering** at NTNU, Trondheim. Currently on the third year of my bachelors degree, and in the mindset of starting on a masters degree next year. Furthermore, I work as a **student assistant** for the students in the year underneath me. In addition to this, my passion is sports, technology (obviously), social networking (add me on LinkedIn) and programming. I just finished up 6 weeks of working as a **summer intern** at Experis Ciber, in which I contributed to creating a prototype of an web-application for creating musicscores in the customers own color notation.
 
 ### &#128506; Social network
 
