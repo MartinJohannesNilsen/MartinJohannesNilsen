@@ -6,8 +6,6 @@ I am a norwegian student studying **computer engineering** at NTNU, Trondheim. C
 
 ### &#127760; Social network
 
-<link rel="stylesheet" type="text/css" media="all" href="css/social-circles.css">
-
 <a href="https://www.martinnilsen.no" target="_blank" title="Portfolio and personal website"  >
     <img src="https://image.flaticon.com/icons/svg/3135/3135683.svg" width="30px" align="left" alt="Portfolio icon" style="margin: 6px 6px 6px 0px">
 </a>
@@ -35,16 +33,18 @@ I am a norwegian student studying **computer engineering** at NTNU, Trondheim. C
 <!-- ### &#128187; Technologies -->
 <!-- ### &#128295; Technologies -->
 
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg" style="pointer-events: none; cursor: default;"></code>
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg" style="pointer-events: none; cursor: default;"></code>
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" style="pointer-events: none; cursor: default;"></code>
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" style="pointer-events: none; cursor: default;"></code>
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudiocode.svg" style="pointer-events: none; cursor: default;"></code>
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/intellijidea.svg" style="pointer-events: none; cursor: default;"></code>
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" style="pointer-events: none; cursor: default;"></code>
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg" style="pointer-events: none; cursor: default;"></code>
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg" style="pointer-events: none; cursor: default;"></code>
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/sass.svg" style="pointer-events: none; cursor: default;"></code>
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" style="pointer-events: none; cursor: default;"></code>
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" style="pointer-events: none; cursor: default;"></code>
-<code style="margin: 2px; padding: 2px; "><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" style="pointer-events: none; cursor: default;"></code>
+<link rel="stylesheet" type="text/css" media="all" href="./css/technologies.css">
+
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg"></i>
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg"></i>
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg"></i>
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg"></i>
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudioi.svg"></i>
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/intellijidea.svg"></i>
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg"></i>
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg"></i>
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg"></i>
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/sass.svg"></i>
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg"></i>
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg"></i>
+<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg"></i>

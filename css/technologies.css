@@ -1,0 +1,13 @@
+.technologies {
+	margin: 2px;
+	padding: 4px;
+	background-color: #f1f1f1;
+	border-radius: 5px;
+	width: 32px;
+	height: 32px;
+}
+
+.icon {
+	height: 100%;
+	width: 100%;
+}
