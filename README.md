@@ -4,7 +4,6 @@
 
 I am a norwegian student studying **computer engineering** at NTNU, Trondheim. Currently on the third year of my bachelors degree, and in the mindset of starting on a masters degree next year. Furthermore, I work as a **student assistant** for the students in the year underneath me. In addition to this, my passion is sports, technology (obviously), social networking (add me on LinkedIn) and programming. I just finished up 6 weeks of working as a **summer intern** at Experis Ciber, in which I contributed to creating a prototype of an web-application for creating musicscores in the customers own color notation.
 
-
 ### &#127760; Social network
 
 <a href="https://www.martinnilsen.no" target="_blank" title="Portfolio and personal website"  >
@@ -31,45 +30,4 @@ I am a norwegian student studying **computer engineering** at NTNU, Trondheim. C
 
 ### &#128161; Technologies
 
-<!-- ### &#128187; Technologies -->
-<!-- ### &#128295; Technologies -->
-
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 0px 2px 0px 4px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg">
-</i>
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 2px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg">
-</i>
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 2px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg">
-</i>
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 2px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg">
-</i>
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 2px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudio.svg">
-</i>
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 2px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/intellijidea.svg">
-</i>
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 2px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg">
-</i>
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 2px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg">
-</i>
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 2px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg">
-</i>
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 2px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/sass.svg">
-</i>
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 2px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg">
-</i>
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 2px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg">
-</i>
-<i style="background-color: lightgrey; padding: 8px 6px 2px 6px; border-radius: 5px; margin: 2px">
-    <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg">
-</i>
+<img alt="Image of different technologies I have experience using" src=""/>
