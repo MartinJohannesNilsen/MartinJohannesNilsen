@@ -33,18 +33,42 @@ I am a norwegian student studying **computer engineering** at NTNU, Trondheim. C
 <!-- ### &#128187; Technologies -->
 <!-- ### &#128295; Technologies -->
 
-<link rel="stylesheet" type="text/css" media="all" href="https://github.com/Martinnilsen99/Martinnilsen99/blob/master/css/technologies.css">
-
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg"></text>
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg"></text>
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg"></text>
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg"></text>
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudioi.svg"></text>
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/intellijidea.svg"></text>
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg"></text>
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg"></text>
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg"></text>
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/sass.svg"></text>
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg"></text>
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg"></text>
-<text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg"></text>
+<code height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg">
+</code>
+<i height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg">
+</i>
+<i height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg">
+</i>
+<i height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg">
+</i>
+<i height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudioi.svg">
+</i>
+<i height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/intellijidea.svg">
+</i>
+<i height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg">
+</i>
+<i height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg">
+</i>
+<i height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg">
+</i>
+<i height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/sass.svg">
+</i>
+<i height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg">
+</i>
+<i height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg">
+</i>
+<i height="30px" width="30px">
+    <img height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg">
+</i>
