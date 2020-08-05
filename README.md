@@ -33,7 +33,7 @@ I am a norwegian student studying **computer engineering** at NTNU, Trondheim. C
 <!-- ### &#128187; Technologies -->
 <!-- ### &#128295; Technologies -->
 
-<link rel="stylesheet" type="text/css" media="all" href="./css/technologies.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://github.com/Martinnilsen99/Martinnilsen99/blob/master/css/technologies.css">
 
 <text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg"></text>
 <text class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg"></text>
