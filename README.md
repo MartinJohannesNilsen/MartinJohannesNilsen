@@ -34,7 +34,7 @@ I am a norwegian student studying **computer engineering** at NTNU, Trondheim. C
 <!-- ### &#128187; Technologies -->
 <!-- ### &#128295; Technologies -->
 
-<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 0px 2px 0px 0px">
+<i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 0px 2px 0px 4px">
     <img height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg">
 </i>
 <i style="background-color: lightgrey; padding: 8px 2px 2px 6px; border-radius: 5px; margin: 2px">
