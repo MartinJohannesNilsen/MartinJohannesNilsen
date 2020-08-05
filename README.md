@@ -10,11 +10,23 @@ I am a norwegian student studying computer engineering at NTNU, Trondheim. Curre
 
 <div>
 
-<a href="https://www.martinnilsen.no" target="_blank" title="Portfolio and personal website" style="margin: 4px"><img src="https://image.flaticon.com/icons/svg/3135/3135683.svg" width="30px" ></a>
-<a href="https://www.linkedin.com/in/martinnilsen99/" target="_blank" title="LinkedIn profile" style="margin: 4px"><img src="https://image.flaticon.com/icons/svg/733/733617.svg" width="30px"></a>
-<a href="https://github.com/Martinnilsen99" target="_blank" title="GitHub profile" style="margin: 4px"><img src="https://image.flaticon.com/icons/svg/733/733609.svg" width="30px" ></a>
-<a href="https://www.facebook.com/Martinnilsen99/" target="_blank" title="Facebook profile" style="margin: 4px"><img src="https://image.flaticon.com/icons/svg/733/733605.svg" width="30px"></a>
-<a href="https://www.instagram.com/martinnilsen99/" target="_blank" title="Instagram profile" style="margin: 4px"><img src="https://image.flaticon.com/icons/svg/733/733614.svg" width="30px"></a>
-<a href="https://www.youtube.com/channel/UCxyROQQeUpa44IEeC5oJuhQ" target="_blank" title="YouTube channel" style="margin: 4px"><img src="https://image.flaticon.com/icons/svg/733/733646.svg" width="30px"></a>
+<a href="https://www.martinnilsen.no" target="_blank" title="Portfolio and personal website"  >
+    <img src="https://image.flaticon.com/icons/svg/3135/3135683.svg" width="30px" align="left" alt="" style="margin: 6px 6px 6px 0px">
+</a>
+<a href="https://www.linkedin.com/in/martinnilsen99/" target="_blank" title="LinkedIn profile"  >
+    <img src="https://image.flaticon.com/icons/svg/733/733617.svg" width="30px" align="left" alt="" style="margin: 6px">
+</a>
+<a href="https://github.com/Martinnilsen99" target="_blank" title="GitHub profile"  >
+    <img src="https://image.flaticon.com/icons/svg/733/733609.svg" width="30px" align="left" alt="" style="margin: 6px">
+</a>
+<a href="https://www.facebook.com/Martinnilsen99/" target="_blank" title="Facebook profile"  >
+    <img src="https://image.flaticon.com/icons/svg/733/733605.svg" width="30px" align="left" alt="" style="margin: 6px">
+</a>
+<a href="https://www.instagram.com/martinnilsen99/" target="_blank" title="Instagram profile"  >
+    <img src="https://image.flaticon.com/icons/svg/733/733614.svg" width="30px" align="left" alt="" style="margin: 6px">
+</a>
+<a href="https://www.youtube.com/channel/UCxyROQQeUpa44IEeC5oJuhQ" target="_blank" title="YouTube channel"  >
+    <img src="https://image.flaticon.com/icons/svg/733/733646.svg" width="30px" align="left" alt="" style="margin: 6px">
+</a>
 
 </div>
