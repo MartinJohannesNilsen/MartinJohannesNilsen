@@ -31,11 +31,11 @@ I am a norwegian student studying **computer engineering** at NTNU, Trondheim. C
 </br>
 
 ### &#128161; Technologies
+
 <!-- ### &#128187; Technologies -->
 <!-- ### &#128295; Technologies -->
 
-
-<code style="margin: 2px; padding: 2px"><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg"></code>
+<code style="margin: 2px; padding: 2px"><span><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg"></span></code>
 <code style="margin: 2px; padding: 2px"><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg"></code>
 <code style="margin: 2px; padding: 2px"><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg"></code>
 <code style="margin: 2px; padding: 2px"><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg"></code>
