@@ -35,7 +35,7 @@ I am a norwegian student studying **computer engineering** at NTNU, Trondheim. C
 
 <link rel="stylesheet" type="text/css" media="all" href="./css/technologies.css">
 
-<i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg"></i>
+<i ><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg"></i>
 <i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg"></i>
 <i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg"></i>
 <i class="technologies"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg"></i>
