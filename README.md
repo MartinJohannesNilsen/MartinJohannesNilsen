@@ -4,6 +4,8 @@
 
 I am a norwegian student studying **computer engineering** at NTNU, Trondheim. Currently on the third year of my bachelors degree, and in the mindset of starting on a masters degree next year. Furthermore, I work as a **student assistant** for the students in the year underneath me. In addition to this, my passion is sports, technology (obviously), social networking (add me on LinkedIn) and programming.
 
+I also have my portfolio of latest projects hosted at www.martinnilsen.no
+
 ### 🔭 At the moment
 
 I am working on my bachelors project, trying to classify variety in sitting posture over time with machine learning algorithms on accelerometer/gyrocsope-data from IMU-sensors. Research based and will be developing a UI for making it an application during our project.
