@@ -33,7 +33,7 @@ I am working on my bachelors project, trying to classify variety in sitting post
 
 ### &#128161; Technologies
 
-<img alt="Image of different technologies I have experience using" src="https://github.com/Martinnilsen99/Martinnilsen99/blob/master/assets/technologies.png"/>
+
 
 ### &#128161; Stats
 
