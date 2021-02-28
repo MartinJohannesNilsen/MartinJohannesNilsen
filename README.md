@@ -13,26 +13,23 @@ I am working on my bachelors project, trying to classify sitting postures with m
 ### 🌐 Social network
 
 <a href="https://www.linkedin.com/in/martinnilsen99/" target="_blank" title="LinkedIn profile">
-    <img src="assets/svg/linkedin.svg" width="40px" align="left"alt="LinkedIn icon" style="margin: 6px -6px 0 0"/>
+    <img src="assets/svg/linkedin.svg" width="45px" alt="LinkedIn icon" style="margin: 2px -5px 0 0"/>
 </a>
 <a href="https://www.facebook.com/Martinnilsen99/" target="_blank" title="Facebook profile">
-    <img src="assets/svg/facebook.svg" width="40px" align="left" alt="Facebook icon" style="margin: 6px -6px"/>
+    <img src="assets/svg/facebook.svg" width="45px" alt="Facebook icon" style="margin: 2px -5px"/>
 </a>
 <a href="mailto:martinjnilsen@icloud.com" target="_blank" title="Mail">
-    <img src="assets/svg/mail.svg" width="40px" align="left" alt="YouTube icon" style="margin: 6px -6px">
+    <img src="assets/svg/mail.svg" width="45px" alt="YouTube icon" style="margin: 2px -5px">
 </a>
 <a href="https://open.spotify.com/user/martinnilsen99" target="_blank" title="Mail">
-    <img src="assets/svg/spotify.svg" width="40px" align="left" alt="YouTube icon" style="margin: 6px -6px">
+    <img src="assets/svg/spotify.svg" width="45px" alt="YouTube icon" style="margin: 2px -5px">
 </a>
 <a href="https://www.instagram.com/martinnilsen99/" target="_blank" title="Instagram profile">
-    <img src="assets/svg/instagram.svg" width="40px" align="left" alt="Instagram icon" style="margin: 6px -6px">
+    <img src="assets/svg/instagram.svg" width="45px" alt="Instagram icon" style="margin: 2px -5px">
 </a>
 <a href="https://www.youtube.com/channel/UCxyROQQeUpa44IEeC5oJuhQ" target="_blank" title="YouTube channel">
-    <img src="assets/svg/youtube.svg" width="40px" align="left" alt="YouTube icon" style="margin: 6px -6px">
+    <img src="assets/svg/youtube.svg" width="45px" alt="YouTube icon" style="margin: 2px -5px">
 </a>
-
-</br>
-</br>
 
 ### 💡 Technologies
 
