@@ -1,3 +1,8 @@
+body {
+	/*background-color: transparent;*/
+	background-color: grey;
+}
+
 .card {
 	padding: 8px;
 	border-radius: 5px;

@@ -2,7 +2,10 @@
 
 ### &#128075; Who am I?
 
-I am a norwegian student studying **computer engineering** at NTNU, Trondheim. Currently on the third year of my bachelors degree, and in the mindset of starting on a masters degree next year. Furthermore, I work as a **student assistant** for the students in the year underneath me. In addition to this, my passion is sports, technology (obviously), social networking (add me on LinkedIn) and programming. I just finished up 6 weeks of working as a **summer intern** at Experis Ciber, in which I contributed to creating a prototype of an web-application for creating musicscores in the customers own color notation.
+I am a norwegian student studying **computer engineering** at NTNU, Trondheim. Currently on the third year of my bachelors degree, and in the mindset of starting on a masters degree next year. Furthermore, I work as a **student assistant** for the students in the year underneath me. In addition to this, my passion is sports, technology (obviously), social networking (add me on LinkedIn) and programming.
+
+### 🔭 At the moment
+I am working on my bachelors project, trying to classify variety in sitting posture over time with machine learning algorithms on accelerometer/gyrocsope-data from IMU-sensors. Research based and will be developing a UI for making it an application during our project. 
 
 ### &#127760; Social network
 
@@ -31,3 +34,8 @@ I am a norwegian student studying **computer engineering** at NTNU, Trondheim. C
 ### &#128161; Technologies
 
 <img alt="Image of different technologies I have experience using" src="https://github.com/Martinnilsen99/Martinnilsen99/blob/master/assets/technologies.png"/>
+
+### &#128161; Stats
+
+![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinNilsen99&theme=calm&show_icons=true&hide=prs&line_height=24&count_private=true&bg_color=7d6d39&icon_color=fff&text_color=fff&title_color=fff&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinNilsen99&theme=calm&langs_count=6&layout=compact&exclude_repo=TDAT3025---Anvendt-maskinlaering-med-prosjekt&bg_color=7d6d39&title_color=fff&hide_border=true)
