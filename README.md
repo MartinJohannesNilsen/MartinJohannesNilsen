@@ -8,7 +8,7 @@ I also have a portfolio of my latest projects hosted at www.martinnilsen.no
 
 ### 🔭 At the moment
 
-I am working on my bachelors project, trying to classify sitting postures with machine learning algorithms on accelerometer/gyrocsope-data from IMU-sensors. Furthermore, we will be developing a GUI for watching how your sitting posture varies over time.
+I am working on my bachelors project, trying to classify sitting postures with machine learning algorithms on accelerometer/gyroscope-data from IMU-sensors. Furthermore, we will be developing a GUI for watching how your sitting posture varies over time.
 
 ### 🌐 Social network
 
