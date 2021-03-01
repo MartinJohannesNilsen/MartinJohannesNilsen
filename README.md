@@ -21,7 +21,7 @@ I am working on my bachelors project, trying to classify sitting postures with m
 <a href="mailto:martinjnilsen@icloud.com" target="_blank" title="Mail">
     <img src="assets/svg/mail.svg" width="45px" alt="YouTube icon" style="margin: 2px -5px">
 </a>
-<a href="https://open.spotify.com/user/martinnilsen99" target="_blank" title="Mail">
+<a href="https://open.spotify.com/user/martinnilsen99" target="_blank" title="Spotify profile">
     <img src="assets/svg/spotify.svg" width="45px" alt="YouTube icon" style="margin: 2px -5px">
 </a>
 <a href="https://www.instagram.com/martinnilsen99/" target="_blank" title="Instagram profile">
