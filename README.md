@@ -39,3 +39,5 @@ I am working on my bachelors project, trying to classify sitting postures with m
 
 ![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinNilsen99&theme=calm&show_icons=true&hide=prs&line_height=24&count_private=true&bg_color=7d6d39&icon_color=fff&text_color=fff&title_color=fff&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinNilsen99&theme=calm&langs_count=6&layout=compact&exclude_repo=TDAT3025---Anvendt-maskinlaering-med-prosjekt&bg_color=7d6d39&title_color=fff&hide_border=true&text_color=fff)
+
+![](https://komarev.com/ghpvc/?username=MartinNilsen99&style=flat-square)
