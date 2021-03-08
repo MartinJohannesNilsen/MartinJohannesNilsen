@@ -2,7 +2,7 @@
 
 ### 👋 Who am I?
 
-I am a norwegian student studying **computer engineering** at NTNU, Trondheim. Currently on the third year of my bachelors degree, and in the mindset of starting on a masters degree next semester. Furthermore, I work as a **learning assistant** for the students in the year underneath me. In addition to this, I'm always motivated to learn more, seeking new social relations and trying to have the courage to seek discomfort when opportunities arise.
+I am a norwegian student studying **computer engineering** at NTNU, Trondheim. Currently on the third year of my bachelors degree, and in the mindset of starting on a masters degree next semester. Furthermore, I work as a **learning assistant** for the students in the year below me. In addition to this, I'm always motivated to learn more, seeking new social relations and trying to have the courage to seek discomfort when opportunities arise.
 
 I also have a portfolio of my latest projects hosted at www.martinnilsen.no
 
