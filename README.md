@@ -2,13 +2,14 @@
 
 ### 👋 Who am I?
 
-I am a norwegian student studying **computer engineering** at NTNU, Trondheim. Currently on the third year of my bachelors degree, and in the mindset of starting on a masters degree next semester. Furthermore, I work as a **learning assistant** for the students in the year below me. In addition to this, I'm always motivated to learn more, seeking new social relations and trying to have the courage to seek discomfort when opportunities arise.
+I am a norwegian **computer science student**, educated computer engineer and full-stack developer.
+Just completed my bachelors degree, and about to take on a masters degree in computer science at NTNU this fall. Furthermore, I work as a **teaching assistant** for the students in the year below me, currently with the subject Applied Machine Learning. In addition to this, I'm always motivated to learn more, seeking new social relations and trying to have the courage to seek discomfort when opportunities arise.
 
 I also have a portfolio of my latest projects hosted at www.martinnilsen.no
 
 ### 🔭 At the moment
 
-I am working on my bachelors project, trying to classify sitting postures with machine learning algorithms on accelerometer/gyroscope-data from IMU-sensors. Additionally, we will be developing a GUI for watching how your sitting posture varies over time.
+Working as a developer at NAV IT this summer. 
 
 ### 🌐 Social network
 
