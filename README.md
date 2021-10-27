@@ -39,6 +39,6 @@ Currently studying Computer Science at NTNU Trondheim.
 ### 📈 Stats
 
 ![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinJohannesNilsen&theme=calm&show_icons=true&hide=prs&line_height=24&count_private=true&bg_color=7d6d39&icon_color=fff&text_color=fff&title_color=fff&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinJohannesNilsen&theme=calm&langs_count=6&layout=compact&exclude_repo=TDAT3025---Anvendt-maskinlaering-med-prosjekt&bg_color=7d6d39&title_color=fff&hide_border=true&text_color=fff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinJohannesNilsen&theme=calm&langs_count=6&layout=compact&exclude_repo=TDAT3025---Anvendt-maskinlaering-med-prosjekt,tdt4225-assignment1,tdt4225-assignment2,tdt4225-assignment3&bg_color=7d6d39&title_color=fff&hide_border=true&text_color=fff)
 
 ![](https://komarev.com/ghpvc/?username=MartinNilsen99&style=flat-square)
