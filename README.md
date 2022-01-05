@@ -13,10 +13,10 @@ Currently studying Computer Science at NTNU Trondheim.
 
 ### 🌐 Social network
 
-<a href="https://www.linkedin.com/in/martinnilsen99/" target="_blank" title="LinkedIn profile">
+<a href="https://www.linkedin.com/in/MartinJohannesNilsen/" target="_blank" title="LinkedIn profile">
     <img src="assets/svg/linkedin.svg" width="45px" alt="LinkedIn icon" style="margin: 2px -5px 0 0"/>
 </a>
-<a href="https://www.facebook.com/Martinnilsen99/" target="_blank" title="Facebook profile">
+<a href="https://www.facebook.com/MartinJohannesNilsen/" target="_blank" title="Facebook profile">
     <img src="assets/svg/facebook.svg" width="45px" alt="Facebook icon" style="margin: 2px -5px"/>
 </a>
 <a href="mailto:martinjnilsen@icloud.com" target="_blank" title="Mail">
@@ -25,7 +25,7 @@ Currently studying Computer Science at NTNU Trondheim.
 <a href="https://open.spotify.com/user/martinnilsen99" target="_blank" title="Spotify profile">
     <img src="assets/svg/spotify.svg" width="45px" alt="YouTube icon" style="margin: 2px -5px">
 </a>
-<a href="https://www.instagram.com/martinnilsen99/" target="_blank" title="Instagram profile">
+<a href="https://www.instagram.com/MartinJohannesNilsen/" target="_blank" title="Instagram profile">
     <img src="assets/svg/instagram.svg" width="45px" alt="Instagram icon" style="margin: 2px -5px">
 </a>
 <a href="https://www.youtube.com/channel/UCxyROQQeUpa44IEeC5oJuhQ" target="_blank" title="YouTube channel">
