@@ -2,8 +2,7 @@
 
 ### 👋 Who am I?
 
-I am a norwegian **computer science student**, educated computer engineer and full-stack developer.
-Just completed my bachelors degree, and about to take on a masters degree in computer science at NTNU this fall. Furthermore, I work as a **teaching assistant** for the students in the year below me, currently with the subject Applied Machine Learning. In addition to this, I'm always motivated to learn more, seeking new social relations and trying to have the courage to seek discomfort when opportunities arise.
+I am a norwegian **computer science student**, educated computer engineer and full-stack developer. In addition to this, I'm always motivated to learn more, seeking new social relations and trying to have the courage to seek discomfort when opportunities arise.
 
 I also have a portfolio of my latest projects hosted at www.MartinJohannesNilsen.no
 
