@@ -4,7 +4,7 @@ I am a norwegian **computer science student**, educated computer engineer and fu
 
 I also have a portfolio of my latest projects hosted at www.MartinJohannesNilsen.no
 
-[![Header](https://github.com/Martinnilsen99/Martinnilsen99/blob/master/assets/img/dark_profileHeader.png "Header")](https://martinnilsen.no)
+[![Header](https://github.com/Martinnilsen99/Martinnilsen99/blob/main/assets/img/dark_profileHeader.png "Header")](https://martinnilsen.no)
 
 ### 🔭 At the moment
 
@@ -33,7 +33,7 @@ Currently studying Computer Science at NTNU Trondheim.
 
 ### 💡 Technologies
 
-<img alt="Image of different technologies I have experience using" src="https://github.com/Martinnilsen99/Martinnilsen99/blob/master/assets/img/technologies.png"/>
+<img alt="Image of different technologies I have experience using" src="https://github.com/Martinnilsen99/Martinnilsen99/blob/main/assets/img/technologies.png"/>
 
 ### 📈 Stats
 
