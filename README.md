@@ -1,10 +1,10 @@
-[![Header](https://github.com/Martinnilsen99/Martinnilsen99/blob/master/assets/profileHeader.png "Header")](https://martinnilsen.no)
-
 ### 👋 Who am I?
 
 I am a norwegian **computer science student**, educated computer engineer and full-stack developer. In addition to this, I'm always motivated to learn more, seeking new social relations and trying to have the courage to seek discomfort when opportunities arise.
 
 I also have a portfolio of my latest projects hosted at www.MartinJohannesNilsen.no
+
+[![Header](https://github.com/Martinnilsen99/Martinnilsen99/blob/master/assets/img/dark_profileHeader.png "Header")](https://martinnilsen.no)
 
 ### 🔭 At the moment
 
@@ -33,7 +33,7 @@ Currently studying Computer Science at NTNU Trondheim.
 
 ### 💡 Technologies
 
-<img alt="Image of different technologies I have experience using" src="https://github.com/Martinnilsen99/Martinnilsen99/blob/master/assets/technologies.png"/>
+<img alt="Image of different technologies I have experience using" src="https://github.com/Martinnilsen99/Martinnilsen99/blob/master/assets/img/technologies.png"/>
 
 ### 📈 Stats
 
