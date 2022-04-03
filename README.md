@@ -1,14 +1,14 @@
 ### 👋 Who am I?
 
-I am a norwegian **computer science student**, educated computer engineer and full-stack developer. In addition to this, I'm always motivated to learn more, seeking new social relations and trying to have the courage to seek discomfort when opportunities arise.
+I am a norwegian computer engineer pursuing a M.Sc in Computer Science. Furthermore, I have had 2 jobs as a full-stack developer, and 4 positions as teaching assistant in 4 different subjects during my time at NTNU. In addition to this, I'm always motivated to learn more, seeking new social relations and trying to have the courage to seek discomfort when opportunities arise.
 
-I also have a portfolio of my latest projects hosted at www.MartinJohannesNilsen.no
+A portfolio of my latest projects is available at www.MartinJohannesNilsen.no
 
-[![Header](https://github.com/Martinnilsen99/Martinnilsen99/blob/main/assets/img/dark_profileHeader.png "Header")](https://martinnilsen.no)
+[![Portfolio](https://github.com/Martinnilsen99/Martinnilsen99/blob/main/assets/img/dark_profileHeader.png "Portfolio")](https://martinnilsen.no)
 
 ### 🔭 At the moment
 
-Currently studying Computer Science at NTNU Trondheim. 
+Currently studying **Computer Science** at NTNU Trondheim. 
 
 ### 🌐 Social network
 
@@ -37,7 +37,7 @@ Currently studying Computer Science at NTNU Trondheim.
 
 ### 📈 Stats
 
-![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinJohannesNilsen&theme=calm&show_icons=true&hide=prs&line_height=24&count_private=true&bg_color=7d6d39&icon_color=fff&text_color=fff&title_color=fff&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinJohannesNilsen&theme=calm&langs_count=6&layout=compact&exclude_repo=tdt4225-assignment1,tdt4225-assignment2,tdt4225-assignment3&bg_color=7d6d39&title_color=fff&hide_border=true&text_color=fff)
+![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinJohannesNilsen&theme=calm&show_icons=true&hide=prs&line_height=24&count_private=true&bg_color=021b2e&icon_color=fff&text_color=fff&title_color=fff&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinJohannesNilsen&theme=calm&langs_count=6&layout=compact&exclude_repo=tdt4225-assignment1,tdt4225-assignment2,tdt4225-assignment3&bg_color=021b2e&title_color=fff&hide_border=true&text_color=fff)
 
 ![](https://komarev.com/ghpvc/?username=MartinNilsen99&style=flat-square)
