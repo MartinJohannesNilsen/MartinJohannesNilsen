@@ -4,7 +4,7 @@ I am a norwegian computer engineer pursuing a M.Sc in Computer Science. Furtherm
 
 A portfolio of my latest projects is available at www.MartinJohannesNilsen.no
 
-[![Portfolio](https://github.com/Martinnilsen99/Martinnilsen99/blob/main/assets/img/dark_profileHeader.png "Portfolio")](https://martinnilsen.no)
+[![Portfolio](https://github.com/Martinnilsen99/Martinnilsen99/blob/main/assets/img/dark_profileHeader.png "Portfolio")](https://MartinJohannesNilsen.no)
 
 ### 🔭 At the moment
 
