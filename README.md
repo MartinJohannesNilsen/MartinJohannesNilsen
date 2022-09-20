@@ -1,6 +1,6 @@
 ### 👋 Who am I?
 
-I am a norwegian computer engineer pursuing a M.Sc in Computer Science. Furthermore, I have had 2 jobs as a full-stack developer, and 4 positions as teaching assistant in 4 different subjects during my time at NTNU. In addition to this, I'm always motivated to learn more, seeking new social relations and trying to have the courage to seek discomfort when opportunities arise.
+I am a norwegian computer engineer pursuing a M.Sc in Computer Science. Furthermore, I have had two internships as a full-stack developer, an internship as a ML Engineer and four positions as teaching assistant in different subjects during my time at NTNU. In addition to this, I'm always motivated to learn more, seeking new social relations and trying to have the courage to seek discomfort when opportunities arise.
 
 A portfolio of my latest projects is available at www.MartinJohannesNilsen.no
 
