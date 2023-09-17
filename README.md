@@ -1,14 +1,14 @@
 ### 👋 Who am I?
 
-I am a norwegian computer engineer pursuing a M.Sc in Computer Science. Furthermore, I have had two internships as a full-stack developer, an internship as a ML Engineer and four positions as teaching assistant in different subjects during my time at NTNU. In addition to this, I'm always motivated to learn more, seeking new social relations and trying to have the courage to seek discomfort when opportunities arise.
+I am a Norwegian software engineer, currently working with machine learning at Kongsberg Discovery. Previously, I have had two internships as a full-stack developer, an internship as an ML Engineer, and four positions as a teaching assistant in different subjects, all during my time at university. I'm always motivated to learn more, seek new social relations, and have the courage to embrace discomfort when opportunities arise.
 
-A portfolio of my latest projects is available at www.MartinJohannesNilsen.no
+A portfolio of my latest projects is available at [www.MartinJohannesNilsen.no](https://martinjohannesnilsen.no)
 
-[![Portfolio](https://github.com/Martinnilsen99/Martinnilsen99/blob/main/assets/img/ogImage.png "Portfolio")](https://martinjohannesnilsen.no)
+[![Portfolio](https://github.com/Martinnilsen99/Martinnilsen99/blob/main/assets/img/ogImage2.png "Portfolio")](https://martinjohannesnilsen.no)
 
 ### 🔭 At the moment
 
-Currently studying **Computer Science** at NTNU Trondheim. 
+Submitted my master's thesis in June 2023, after five years of studying Computer Science at NTNU Trondheim. Currently working as a Software Engineer at Kongsberg Discovery.
 
 ### 🌐 Social network
 
