@@ -2,9 +2,7 @@
 
 I am a Norwegian software engineer, currently working with machine learning at Kongsberg Discovery. Previously, I have had two internships as a full-stack developer, an internship as an ML Engineer, and four positions as a teaching assistant in different subjects, all during my time at university. I'm always motivated to learn more, seek new social relations, and have the courage to embrace discomfort when opportunities arise.
 
-A portfolio of my latest projects is available at [www.MartinJohannesNilsen.no](https://martinjohannesnilsen.no)
-
-[![Portfolio](https://github.com/Martinnilsen99/Martinnilsen99/blob/main/assets/img/ogImage2.png "Portfolio")](https://martinjohannesnilsen.no)
+A portfolio of my latest projects is available at [MartinJohannesNilsen.no](https://martinjohannesnilsen.no)
 
 ### 🔭 At the moment
 
@@ -12,24 +10,8 @@ Submitted my master's thesis in June 2023, after five years of studying Computer
 
 ### 🌐 Social network
 
-<a href="https://www.linkedin.com/in/MartinJohannesNilsen/" target="_blank" title="LinkedIn profile">
-    <img src="assets/svg/linkedin.svg" width="45px" alt="LinkedIn icon" style="margin: 2px -5px 0 0"/>
-</a>
-<a href="https://www.facebook.com/MartinJohannesNilsen/" target="_blank" title="Facebook profile">
-    <img src="assets/svg/facebook.svg" width="45px" alt="Facebook icon" style="margin: 2px -5px"/>
-</a>
-<a href="mailto:martinjnilsen@icloud.com" target="_blank" title="Mail">
-    <img src="assets/svg/mail.svg" width="45px" alt="YouTube icon" style="margin: 2px -5px">
-</a>
-<a href="https://open.spotify.com/user/martinnilsen99" target="_blank" title="Spotify profile">
-    <img src="assets/svg/spotify.svg" width="45px" alt="YouTube icon" style="margin: 2px -5px">
-</a>
-<a href="https://www.instagram.com/MartinJohannesNilsen/" target="_blank" title="Instagram profile">
-    <img src="assets/svg/instagram.svg" width="45px" alt="Instagram icon" style="margin: 2px -5px">
-</a>
-<a href="https://www.youtube.com/channel/UCxyROQQeUpa44IEeC5oJuhQ" target="_blank" title="YouTube channel">
-    <img src="assets/svg/youtube.svg" width="45px" alt="YouTube icon" style="margin: 2px -5px">
-</a>
+A list of relevant links can be found at [links.MartinJohannesNilsen.no](https://links.martinjohannesnilsen.no)
+
 
 ### 💡 Technologies
 
