@@ -6,7 +6,7 @@ A portfolio of my latest projects is available at [MartinJohannesNilsen.no](http
 
 ### 🔭 At the moment
 
-Submitted my master's thesis in June 2023, after five years of studying Computer Science at NTNU Trondheim. Currently working as a Software Engineer at Kongsberg Discovery.
+I submitted my master's thesis in June 2023, following five years of studying Computer Engineering and Computer Science at NTNU Trondheim. I am currently employed as a Software Engineer at Kongsberg Discovery.
 
 ### 🌐 Social network
 
